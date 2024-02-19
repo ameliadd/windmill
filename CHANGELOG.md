@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.272.1](https://github.com/windmill-labs/windmill/compare/v1.272.0...v1.272.1) (2024-02-19)
+
+
+### Bug Fixes
+
+* add support for onSelect to app select ([4a224f6](https://github.com/windmill-labs/windmill/commit/4a224f60ab936690c4f16246700992869d5d8bb3))
+* add support for onToggle for app checkboxes ([5a47f50](https://github.com/windmill-labs/windmill/commit/5a47f5062bc554bfcabb689eae8427e8eb2774d0))
+* backend build on macos ([#3243](https://github.com/windmill-labs/windmill/issues/3243)) ([458550f](https://github.com/windmill-labs/windmill/commit/458550f31480fef889a70a826f6c1f43a5baf9bd))
+
 ## [1.272.0](https://github.com/windmill-labs/windmill/compare/v1.271.0...v1.272.0) (2024-02-18)
 
 ### Features
